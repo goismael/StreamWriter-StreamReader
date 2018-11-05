@@ -1,0 +1,9 @@
+C:\CC6\WriteToDataFile\WriteToDataFile\bin\Debug\WriteToDataFile.exe.config
+C:\CC6\WriteToDataFile\WriteToDataFile\bin\Debug\WriteToDataFile.exe
+C:\CC6\WriteToDataFile\WriteToDataFile\bin\Debug\WriteToDataFile.pdb
+C:\CC6\WriteToDataFile\WriteToDataFile\obj\Debug\WriteToDataFile.Form1.resources
+C:\CC6\WriteToDataFile\WriteToDataFile\obj\Debug\WriteToDataFile.Properties.Resources.resources
+C:\CC6\WriteToDataFile\WriteToDataFile\obj\Debug\WriteToDataFile.csproj.GenerateResource.cache
+C:\CC6\WriteToDataFile\WriteToDataFile\obj\Debug\WriteToDataFile.csproj.CoreCompileInputs.cache
+C:\CC6\WriteToDataFile\WriteToDataFile\obj\Debug\WriteToDataFile.exe
+C:\CC6\WriteToDataFile\WriteToDataFile\obj\Debug\WriteToDataFile.pdb
